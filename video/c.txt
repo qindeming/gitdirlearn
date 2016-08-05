@@ -1,6 +1,15 @@
+1、svn
 
-what is your name?
-my name is qindeming
+http://svn.digilinx.cn/repos/proj_bake/
+http://svn.digilinx.cn/repos/proj_linlaoban/
 
-asdfadsfasdfadsfasdfadfsa
-qindeming
+git学习
+
+1. 什么是git？
+ git是目前世界上最先进的分布式版本控制系统（没有之一）
+
+2.总结：
+创建仓库：git init 目录名
+添加文件第一步：git add 文件名 
+添加文件重复第一步：git add  文件名
+添加文件第二步：git commit -m "说明文档，提交的文件内容"
